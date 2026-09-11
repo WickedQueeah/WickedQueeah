@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @WickedQueeah
-- 👀 I’m interested in MacOS.
-- 🌱 I’m currently learning Swift.
+- 👀 I’m interested in Esp32.
+- 🌱 I’m currently learning C++.
 - 💞️ I’m looking to collaborate on Apps.
 - 📫 How to reach me https://www.instagram.com/wickedqueeah/
 
